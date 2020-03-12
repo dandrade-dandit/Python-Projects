@@ -22,7 +22,7 @@ def fibdpbottomup (n):
 
 # driver code to test the above code
 if __name__ == '__main__':
-    n=45
+    n=38
     start_time = time.time()
     result = fibnaive(n)
     elapsed_time = time.time() - start_time

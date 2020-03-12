@@ -1,6 +1,5 @@
 import math
 
-
 def binaryInsertionSort(arr_temp):
     for i in range(1, len(arr_temp)):
         val = arr_temp[i]
