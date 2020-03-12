@@ -10,7 +10,7 @@ def fractionalKnapsack(wt, val, w):
             r += w * value
             w -= w
             break
-        # print("%s: %s" % (key, value))
+        ## print("%s: %s" % (key, value))
 
     return r
 
