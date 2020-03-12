@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fc08119-e351-4a39-a5d5-8d8938d48c24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VJGVJ5Qv2seUQSAz8H8bPsacZ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.arrays">
+    <configuration name="arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="avl_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Users\dfden\Anaconda3\envs\untitled\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/avl_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="avlrc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Users\dfden\Anaconda3\envs\untitled\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/avlrc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Users\dfden\Anaconda3\envs\untitled\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Users\dfden\Anaconda3\envs\untitled\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/expression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.expression" />
+      <item itemvalue="Python.csp" />
+      <item itemvalue="Python.avlrc" />
+      <item itemvalue="Python.avl_tree" />
+      <item itemvalue="Python.arrays" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.arrays" />
+        <item itemvalue="Python.avl_tree" />
+        <item itemvalue="Python.avlrc" />
+        <item itemvalue="Python.csp" />
+        <item itemvalue="Python.expression" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fc08119-e351-4a39-a5d5-8d8938d48c24" name="Default Changelist" comment="" />
+      <created>1576963806663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576963806663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="26" key="#Fib" timestamp="1576964132413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#Fib/0.0.1536.824@0.0.1536.824" timestamp="1576964132413" />
+    <state x="496" y="26" key="#HelloWorld" timestamp="1576964064325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#HelloWorld/0.0.1536.824@0.0.1536.824" timestamp="1576964064325" />
+    <state x="496" y="26" key="#LinkedList" timestamp="1576964073568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#LinkedList/0.0.1536.824@0.0.1536.824" timestamp="1576964073568" />
+    <state x="496" y="26" key="#PythonTest" timestamp="1576964094805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#PythonTest/0.0.1536.824@0.0.1536.824" timestamp="1576964094805" />
+    <state x="496" y="26" key="#Sorton" timestamp="1576964114905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#Sorton/0.0.1536.824@0.0.1536.824" timestamp="1576964114905" />
+    <state x="496" y="26" key="#Sorts" timestamp="1576964123622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#Sorts/0.0.1536.824@0.0.1536.824" timestamp="1576964123622" />
+    <state x="496" y="26" key="#avl_tree" timestamp="1576964170461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#avl_tree/0.0.1536.824@0.0.1536.824" timestamp="1576964170461" />
+    <state x="496" y="26" key="#avlrc" timestamp="1576964160486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#avlrc/0.0.1536.824@0.0.1536.824" timestamp="1576964160486" />
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576964038277">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576964038277" />
+    <state x="496" y="26" key="#csp" timestamp="1576964151352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#csp/0.0.1536.824@0.0.1536.824" timestamp="1576964151352" />
+    <state x="496" y="26" key="#expression" timestamp="1576964142730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#expression/0.0.1536.824@0.0.1536.824" timestamp="1576964142730" />
+    <state x="496" y="26" key="#red_black_tree" timestamp="1576964106588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#red_black_tree/0.0.1536.824@0.0.1536.824" timestamp="1576964106588" />
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1576974628115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576974628115" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1576974628115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576974628115" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1576974628114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576974628114" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1576974628115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576974628115" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1576974628116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576974628116" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1576974628115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1576974628115" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1576974628115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1576974628115" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1576974628116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1576974628116" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1576964406156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576964406156" />
+    <state x="463" y="17" width="609" height="789" key="find.popup" timestamp="1576963869713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="17" width="609" height="789" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1576963869713" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/arrays.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
