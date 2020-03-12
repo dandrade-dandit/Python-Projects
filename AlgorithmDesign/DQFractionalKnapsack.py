@@ -20,6 +20,7 @@ if __name__ == '__main__':
     val = [5, 10, 15, 7, 8, 9, 4, 20]
     wt = [1, 3, 5, 4, 1, 3, 2, 6]
     #val_wt = [5, 3.3, 3, 1.75, 8, 3, 2, 3.33]
+    #index = [0, 1, 2, 3, 4, 5, 6, 7]
 
     w = 15
     print("The result of the Divide and Conquer - Fractional Knapsack problem is: " + str(fractionalKnapsack(wt, val, w)))
