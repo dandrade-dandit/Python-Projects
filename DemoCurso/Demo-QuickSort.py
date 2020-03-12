@@ -22,6 +22,7 @@ def quickSort(sample, start, end):
   quickSort(sample, start, index-1)
   quickSort(sample, index+1, end)
 
-
-sample1 = random.sample(range(0,100),10)
-quickSort(sample1,0,9)
+# driver code to test the above code
+if __name__ == '__main__':
+  sample1 = random.sample(range(0,100),10)
+  quickSort(sample1,0,9)
