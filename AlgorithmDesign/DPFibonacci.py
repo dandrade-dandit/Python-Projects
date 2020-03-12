@@ -29,7 +29,6 @@ if __name__ == '__main__':
     mlsec = repr(elapsed_time).split('.')[1][:5]
     printexectime = time.strftime("%H:%M:%S.{} %Z".format(mlsec), time.gmtime(elapsed_time))
     print("The Result of Fibonacci of " + str(n) + " - Naive Version: " + str(result) + " was executed in " + str(printexectime) + ".");
-    #
 
     start_time = time.time()
     result = fibdptopdown(n)
@@ -37,7 +36,6 @@ if __name__ == '__main__':
     mlsec = repr(elapsed_time).split('.')[1][:3]
     printexectime = time.strftime("%H:%M:%S.{} %Z".format(mlsec), time.gmtime(elapsed_time))
     print("The Result of Fibonacci of " + str(n) + " - DP TopDown Version: " + str(result) + " was executed in " + str(printexectime) + ".");
-    #
 
     start_time = time.time()
     result = fibdpbottomup(n)
