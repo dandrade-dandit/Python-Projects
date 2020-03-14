@@ -2,7 +2,6 @@ def Knapsack01(wt, val, w):
     t = {}
     for i in range(0, len(wt)):
         for j in range(0, w + 1):
-            r=wt[i]
             if j < wt[i]:
                 if i == 0 or j == 0:
                     t[i, j] = 0
